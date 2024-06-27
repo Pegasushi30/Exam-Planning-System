@@ -4,6 +4,10 @@
 
 The Exam Planning System is designed to streamline the management of exams within a university setting. The system encompasses various entities and user roles, each with distinct responsibilities to ensure efficient scheduling and oversight of exams.
 
+### ER Diagram
+
+![ER Diagram](ER_DIAGRAM.png)
+
 ### Main Entities
 
 - **Employee**: Represents individuals involved in the exam process.
